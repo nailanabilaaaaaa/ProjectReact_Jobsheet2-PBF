@@ -5,7 +5,7 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 const Hello = () =>{
-  return <p>hello</p>
+  return <p>hello </p>
 }
 
 ReactDOM.render(<Hello />, document.getElementById('root'));
